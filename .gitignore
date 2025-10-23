@@ -1,0 +1,26 @@
+# 本地环境
+**/.DS_Store
+**/.local/*
+**/.venv/*
+**/.conda/*
+**/.taskfile/.env
+
+# 临时目录
+**/tmp/**
+**/log/**
+**/logs/**
+**/temp/**
+**/cache/**
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+
+# golang
+main
